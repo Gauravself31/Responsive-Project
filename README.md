@@ -1,1 +1,1 @@
-#[View My Project]( https://gauravself31.github.io/Responsive-Project/)*
+[View My Project]( https://gauravself31.github.io/Responsive-Project/)
